@@ -1,4 +1,4 @@
-# 🌟 Aniket Prakash - Portfolio
+# 🌟 Aniket Prakash 
 
 ## 👨‍💻 About Me
 Hi there! I'm **Aniket Prakash**, a Computer Science and Data Analytics student at **IIT Patna**, with a deep passion for solving problems, writing clean code, and building innovative projects. When I'm not coding, you might find me grooving to music, gaming, or exploring new ideas.
